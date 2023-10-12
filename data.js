@@ -4,9 +4,10 @@ export const postsData = [
     title: "New Smartphone Model Released",
     content: "A new smartphone model with advanced features has been released.",
     author: "John Doe",
+    authorEmail: 'test@email.com', 
     datepublished: "2023-09-20",
     category: "Mobile",
-    links: ["https://example.com/news1"],
+    links: ["https://example.com/news1/ofaveryverylonglink/longerthanscreen/todisplay"],
     thumbnail:
       "https://images.pexels.com/photos/1616516/pexels-photo-1616516.jpeg",
   },
@@ -16,6 +17,7 @@ export const postsData = [
     content:
       "Artificial intelligence makes a significant breakthrough in healthcare diagnostics.",
     author: "Jane Smith",
+    authorEmail: 'test@email.com', 
     datepublished: "2023-09-19",
     category: "Healthcare",
     links: ["https://example.com/news2", "https://example.com/news2-1"],
@@ -26,6 +28,7 @@ export const postsData = [
     content:
       "SpaceX successfully launches a new communication satellite into orbit.",
     author: "Elon Musk",
+    authorEmail: 'test@email.com', 
     datepublished: "2023-09-18",
     category: "Space",
     links: [],
@@ -38,6 +41,7 @@ export const postsData = [
     content:
       "A major tech company reports record-breaking profits for the fiscal year.",
     author: "Alice Johnson",
+    authorEmail: 'test@email.com', 
     datepublished: "2023-09-17",
     category: "Business",
     links: ["https://example.com/news4"],
@@ -48,6 +52,7 @@ export const postsData = [
     content:
       "A company introduces an AI-powered chatbot for improved customer service.",
     author: "David Brown",
+    authorEmail: 'test@email.com', 
     datepublished: "2023-09-16",
     category: "Artificial Intelligence",
     links: ["https://example.com/news5"],
@@ -60,6 +65,7 @@ export const postsData = [
     content:
       "Scientists create an energy-efficient CPU design for next-generation computers.",
     author: "Sarah Williams",
+    authorEmail: 'test@email.com', 
     datepublished: "2023-09-15",
     category: "Technology",
     links: [],
@@ -70,6 +76,7 @@ export const postsData = [
     content:
       "A new virtual reality gaming headset is unveiled with immersive features.",
     author: "Michael Davis",
+    authorEmail: 'test@email.com', 
     datepublished: "2023-09-14",
     category: "Gaming",
     links: ["https://example.com/news7"],
@@ -80,6 +87,7 @@ export const postsData = [
     content:
       "A cybersecurity firm identifies and mitigates advanced cyber threats.",
     author: "Emily Wilson",
+    authorEmail: 'test@email.com', 
     datepublished: "2023-09-13",
     category: "Cybersecurity",
     links: ["https://example.com/news8"],
@@ -90,6 +98,7 @@ export const postsData = [
     content:
       "A new wearable technology helps users monitor their health and fitness.",
     author: "Mark Anderson",
+    authorEmail: 'test@email.com', 
     datepublished: "2023-09-12",
     category: "Wearables",
     links: ["https://example.com/news9"],
@@ -102,6 +111,7 @@ export const postsData = [
     content:
       "A tech conference showcases the latest innovations and trends in the industry.",
     author: "Sophia Roberts",
+    authorEmail: 'test@email.com', 
     datepublished: "2023-09-11",
     category: "Events",
     links: ["https://example.com/news10", "https://example.com/news10-1"],
